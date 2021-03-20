@@ -1,4 +1,4 @@
-> ⚠️ This is a fork of [retrontology/PvPToggle](https://github.com/retrontology/PvPToggle) which is a fork of [aasmus/PvPToggle](https://github.com/aasmus/PvPToggle) which has been adjusted to meet the needs of my particular server.
+> ⚠️ This is a fork of [retrontology/PvPToggle](https://github.com/retrontology/PvPToggle) which is a fork of [aasmus/PvPToggle](https://github.com/aasmus/PvPToggle) and has been adjusted to meet the needs of my particular server.
 
 
 # PvPToggle
